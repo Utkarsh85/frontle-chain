@@ -14,5 +14,13 @@
     "chain"
   ],
   "author": "Utkarsh85",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/frontle-chain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/frontle-chain/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/frontle-chain#readme"
 }
